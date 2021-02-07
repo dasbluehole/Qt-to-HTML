@@ -53,11 +53,13 @@ QString get_widget_display_text(QDomElement e)
     QString disp_name="";
     QDomNodeList l = e.childNodes();
     int n = l.count();
+    //qDebug()<<" found "<<n;
     for(int i=0; i<n; i++)
     {
         if(l.at(i).toElement().attribute("name")=="text")
         {
             disp_name =  l.at(i).toElement().text();
+            //qDebug()<<disp_name;
         }
     }
     return(disp_name);
