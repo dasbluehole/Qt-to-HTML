@@ -41,6 +41,8 @@ For any **QPushButton**, a **on\_pushButton\_clicked()** _onclick_ arttribute is
 User should edit and modify the scripts as per requirement.
 
 ## Output
+![Currently implemented Features](https://github.com/dasbluehole/Qt-to-HTML/blob/main/currentfeatures_qt_ui.png)
+![HTML Equivalent](https://github.com/dasbluehole/Qt-to-HTML/blob/main/currentfeatures_html.png)
 ![Qt Dialog](https://github.com/dasbluehole/Qt-to-HTML/blob/main/dialod_qt_ui.png)
 ![HTML equivalent](https://github.com/dasbluehole/Qt-to-HTML/blob/main/dialog_html.png)
 ![Qt Widget](https://github.com/dasbluehole/Qt-to-HTML/blob/main/widget_qt_ui.png)
